@@ -1,0 +1,7 @@
+[
+  {"id": "ahd", "name": "Ahmedabad Godown", "lat": 23.0263104, "lon": 72.5737929},
+  {"id": "sur", "name": "Surat Godown",     "lat": 21.1702, "lon": 72.8311},
+  {"id": "vad", "name": "Vadodara Godown",  "lat": 22.3072, "lon": 73.1812},
+  {"id": "raj", "name": "Rajkot Godown",    "lat": 22.3039, "lon": 70.8022},
+  {"id": "gan" , "name": "Gandhinagar Godown" , "lat" : 23.2174964 , "lon" :72.6450312}
+]
